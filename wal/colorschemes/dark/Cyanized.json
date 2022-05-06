@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/wallpapers/NordWall16Cyanized.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090909",
+        "foreground": "#7adede",
+        "cursor": "#7adede"
+    },
+    "colors": {
+        "color0": "#0f0f0f",
+        "color1": "#183838",
+        "color2": "#183B3B",
+        "color3": "#154C4C",
+        "color4": "#116E6E",
+        "color5": "#0C9191",
+        "color6": "#09AFAF",
+        "color7": "#7adede",
+        "color8": "#559b9b",
+        "color9": "#183838",
+        "color10": "#183B3B",
+        "color11": "#154C4C",
+        "color12": "#116E6E",
+        "color13": "#0C9191",
+        "color14": "#09AFAF",
+        "color15": "#7adede"
+    }
+}
